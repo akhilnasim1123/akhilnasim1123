@@ -2,6 +2,33 @@
 <p>Welcome to my GitHub profile! I'm a self-taught Full-Stack Developer with a passion for coding, problem-solving, and creating innovative software solutions. I specialize in web and mobile application development using a variety of modern technologies. On this profile, you’ll find projects that showcase my skills in building scalable and reliable systems.
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or collaborate!</p>
+
+## 🚀 Skills & Technologies
+
+Here are some of the technologies and tools I regularly work with:
+
+### **Programming Languages:**
+- C, C++, JavaScript, Python, PHP, Dart
+
+### **Web Development:**
+- **Frontend:** React, Vue.js, HTML5, CSS3, Bootstrap, TailwindCSS
+- **Backend:** Django, Flask, Node.js, Express
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+
+### **Mobile Development:**
+- Flutter (Dart)
+
+### **DevOps & Cloud:**
+- AWS, Docker, Nginx
+
+### **Tools & Platforms:**
+- Git, GitHub, Postman, Figma, Firebase, Chart.js, TensorFlow
+
+### **Other Technologies:**
+- Redux, Linux, Firebase, Docker, Amazon Web Services (AWS), and more
+
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

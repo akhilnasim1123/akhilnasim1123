@@ -39,7 +39,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 
 ## ⚡️ Quickfire Q&A
 
-![Coffee](https://img.shields.io/badge/Coffee-☕️-brown?style=flat-square) **Coffee or Tea?** Tea  
+![Coffee](https://img.shields.io/badge/Coffee-☕️-brown?style=flat-square) **Coffee or Tea?** Straight Coffee  
 ![Python](https://img.shields.io/badge/Python-%E2%9D%93-yellowgreen?style=flat-square) **Favorite Programming Language?** Python  
 ![Night Owl](https://img.shields.io/badge/Night_Owl-%E2%98%99%EF%B8%8F-blue?style=flat-square) **Morning or Night Owl?** Night Owl  
 ![Django](https://img.shields.io/badge/Django-%E2%9A%A1%EF%B8%8F-darkgreen?style=flat-square) **Favorite Framework?** Django  

@@ -80,6 +80,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b?utm_source=share&utm_medium=member_desktop">Why I Chose to Be a Software Developer</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj?utm_source=share&utm_medium=member_desktop">Supercharge Your Python Applications with Celery</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://x.com/4khilnazim" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-nazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>

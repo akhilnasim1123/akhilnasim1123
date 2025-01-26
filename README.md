@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Akhil Nasim</h1>
-<p>Hi there! 👋 I'm a software developer with a passion for coding, learning, and building innovative solutions. Explore my repositories to see the projects I've been working on. Let's connect and collaborate!</p>
+<p>Welcome to my GitHub profile! I'm a self-taught Full-Stack Developer with a passion for coding, problem-solving, and creating innovative software solutions. I specialize in web and mobile application development using a variety of modern technologies. On this profile, you’ll find projects that showcase my skills in building scalable and reliable systems.
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or collaborate!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

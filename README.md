@@ -86,7 +86,6 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/4khilnazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&locale=en" alt="akhilnasim1123" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&locale=en&layout=compact" alt="akhilnasim1123" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilnasim1123" alt="akhilnasim1123" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/akhilnasimt">

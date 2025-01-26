@@ -3,31 +3,24 @@
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or collaborate!</p>
 
-## 🚀 Skills & Technologies
+## ⚡️ Quickfire Q&A
 
-Here are some of the technologies and tools I regularly work with:
+**Coffee or Tea?** ☕️  
+**Favorite Programming Language?** Python  
+**Morning or Night Owl?** Night Owl 🌙  
+**Favorite Framework?** Django  
+**Favorite Tech to Learn Next?** AI & Machine Learning 🤖  
+**Linux or Windows?** Windows 🐧  
+**Frontend or Backend?** Full-Stack (but leaning Backend)  
+**Dream Job?** CTO or Lead Developer at a Tech Giant 🚀  
+**Books or Podcasts?** Books 📚  
+**Mac or PC?** Mac 💻  
+**Favorite Code Editor?** VS Code  
+**One Thing You Can’t Live Without?** My laptop 💻  
 
-### **Programming Languages:**
-- C, C++, JavaScript, Python, PHP, Dart
+---
 
-### **Web Development:**
-- **Frontend:** React, Vue.js, HTML5, CSS3, Bootstrap, TailwindCSS
-- **Backend:** Django, Flask, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-
-### **Mobile Development:**
-- Flutter (Dart)
-
-### **DevOps & Cloud:**
-- AWS, Docker, Nginx
-
-### **Tools & Platforms:**
-- Git, GitHub, Postman, Figma, Firebase, Chart.js, TensorFlow
-
-### **Other Technologies:**
-- Redux, Linux, Firebase, Docker, Amazon Web Services (AWS), and more
-
-
+### 📈 I'm always looking to learn new things, contribute to open-source projects, and grow as a developer. Thanks for visiting my profile!
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -61,6 +54,33 @@ Here are some of the technologies and tools I regularly work with:
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+
+
+## 🚀 Skills & Technologies
+
+Here are some of the technologies and tools I regularly work with:
+
+### **Programming Languages:**
+- C, C++, JavaScript, Python, PHP, Dart
+
+### **Web Development:**
+- **Frontend:** React, Vue.js, HTML5, CSS3, Bootstrap, TailwindCSS
+- **Backend:** Django, Flask, Node.js, Express
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+
+### **Mobile Development:**
+- Flutter (Dart)
+
+### **DevOps & Cloud:**
+- AWS, Docker, Nginx
+
+### **Tools & Platforms:**
+- Git, GitHub, Postman, Figma, Firebase, Chart.js, TensorFlow
+
+### **Other Technologies:**
+- Redux, Linux, Firebase, Docker, Amazon Web Services (AWS), and more
+
+
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b?utm_source=share&utm_medium=member_desktop">Why I Chose to Be a Software Developer</a></li>

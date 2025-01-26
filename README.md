@@ -5,21 +5,35 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 
 ## ⚡️ Quickfire Q&A
 
-**Coffee or Tea?** ☕️  
-**Favorite Programming Language?** Python  
-**Morning or Night Owl?** Night Owl 🌙  
-**Favorite Framework?** Django  
-**Favorite Tech to Learn Next?** AI & Machine Learning 🤖  
-**Linux or Windows?** Windows 🐧  
-**Frontend or Backend?** Full-Stack (but leaning Backend)  
-**Books or Podcasts?** Books 📚  
-**Mac or PC?** Mac 💻  
-**Favorite Code Editor?** VS Code  
-**One Thing You Can’t Live Without?** My laptop 💻  
+![Coffee](https://img.shields.io/badge/Coffee-☕️-brown?style=flat-square) **Coffee or Tea?** Tea  
+![Python](https://img.shields.io/badge/Python-%E2%9D%93-yellowgreen?style=flat-square) **Favorite Programming Language?** Python  
+![Night Owl](https://img.shields.io/badge/Night_Owl-%E2%98%99%EF%B8%8F-blue?style=flat-square) **Morning or Night Owl?** Night Owl  
+![Django](https://img.shields.io/badge/Django-%E2%9A%A1%EF%B8%8F-darkgreen?style=flat-square) **Favorite Framework?** Django  
+![AI](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%F0%9F%A4%96-blue?style=flat-square) **Favorite Tech to Learn Next?** AI & Machine Learning  
+![Windows](https://img.shields.io/badge/Windows-%F0%9F%90%A7-0078D4?style=flat-square) **Linux or Windows?** Windows  
+![Backend](https://img.shields.io/badge/Backend-%E2%9C%94-lightgray?style=flat-square) **Frontend or Backend?** Full-Stack (but leaning Backend)  
+![Books](https://img.shields.io/badge/Books-%F0%9F%93%9A-orange?style=flat-square) **Books or Podcasts?** Books  
+![Mac](https://img.shields.io/badge/Mac-%F0%9F%8D%91-000000?style=flat-square) **Mac or PC?** Mac  
+![VSCode](https://img.shields.io/badge/VS%20Code-%E2%9D%93-007ACC?style=flat-square) **Favorite Code Editor?** VS Code  
+![Laptop](https://img.shields.io/badge/Laptop-%F0%9F%92%BB-9B59B6?style=flat-square) **One Thing You Can’t Live Without?** My laptop  
 
 ---
 
-### 📈 I'm always looking to learn new things, contribute to open-source projects, and grow as a developer. Thanks for visiting my profile!
+### ⚙️ Tech & Tools
+
+**🔧 Version Control Tool of Choice?** Git  
+**☁️ Cloud Platform Experience?** AWS, Firebase  
+**📦 Containerization?** Docker  
+**🗄️ Favorite Database?** MySQL  
+**🎨 UI/UX Design Tools?** Figma  
+**🌍 Favorite Developer Community?** Stack Overflow, GitHub  
+**📱 Mobile Development Platform?** Flutter  
+**📈 How do you stay updated with tech trends?** Reading blogs, attending webinars, and following tech leaders on Twitter.
+
+---
+
+### 🚀 I’m always striving to learn new things, contribute to open-source projects, and grow as a developer. Thanks for visiting my profile!
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>

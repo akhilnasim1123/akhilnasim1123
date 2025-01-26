@@ -68,31 +68,14 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 
 ### 🚀 I’m always striving to learn new things, contribute to open-source projects, and grow as a developer. Thanks for visiting my profile!
 
-
 ## 🚀 Skills & Technologies
 
-Here are some of the technologies and tools I regularly work with:
-
-### **Programming Languages:**
-- C, C++, JavaScript, Python, PHP, Dart
-
-### **Web Development:**
-- **Frontend:** React, Vue.js, HTML5, CSS3, Bootstrap, TailwindCSS
-- **Backend:** Django, Flask, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-
-### **Mobile Development:**
-- Flutter (Dart)
-
-### **DevOps & Cloud:**
-- AWS, Docker, Nginx
-
-### **Tools & Platforms:**
-- Git, GitHub, Postman, Figma, Firebase, Chart.js, TensorFlow
-
-### **Other Technologies:**
-- Redux, Linux, Firebase, Docker, Amazon Web Services (AWS), and more
-
+- **Languages:** C, C++, JavaScript, Python, PHP, Dart
+- **Web:** React, Vue.js, Django, Node.js, Express
+- **Mobile:** Flutter
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** AWS, Docker, Nginx
+- **Tools:** Git, Firebase, Postman, Figma, TensorFlow
 
 <h2>✒️ Recent Posts</h2>
 <ul>

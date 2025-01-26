@@ -12,7 +12,6 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 **Favorite Tech to Learn Next?** AI & Machine Learning 🤖  
 **Linux or Windows?** Windows 🐧  
 **Frontend or Backend?** Full-Stack (but leaning Backend)  
-**Dream Job?** CTO or Lead Developer at a Tech Giant 🚀  
 **Books or Podcasts?** Books 📚  
 **Mac or PC?** Mac 💻  
 **Favorite Code Editor?** VS Code  

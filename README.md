@@ -81,31 +81,12 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b?utm_source=share&utm_medium=member_desktop">Why I Chose to Be a Software Developer</a></li>
 <li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj?utm_source=share&utm_medium=member_desktop">Supercharge Your Python Applications with Celery</a></li>
-<h2 align="center">⚡ Where to Find Me</h2>
-
-<p align="center">
-  <a href="https://x.com/4khilnazim" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhil-nazim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/4khilnazim/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
-</p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/https://x.com/4khilnazim" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-nazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/4khilnazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&locale=en" alt="akhilnasim1123" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&locale=en&layout=compact" alt="akhilnasim1123" /></p>
 
 <h2>❤️ Support Me</h2>
 <p><p>

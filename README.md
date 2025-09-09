@@ -77,3 +77,21 @@ Cloud & DevOps:
 
 Tools:
   - Git, Postman, Figma, TensorFlow
+```
+
+
+✍️ Recent LinkedIn Posts
+
+🔗 Why I Chose to Be a Software Developer
+🔗 Supercharge Your Python Applications with Celery
+
+🌐 Let's Connect
+<p align="center"> <a href="https://x.com/4khilnazim" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a> <a href="https://www.linkedin.com/in/akhil-nazim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/4khilnazim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=dark&icon_color=D4AF37&title_color=D4AF37" alt="Akhil's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&layout=compact&theme=dark&title_color=D4AF37" alt="Top Languages" /> </p>
+
+☕ Support Me
+<p align="center"> <a href="https://buymeacoffee.com/akhilnasimt" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me a Coffee" /> </a> </p>
+
+<p align="center" style="color:#777;">Thanks for visiting my profile! 🚀 Keep learning, keep building.</p>

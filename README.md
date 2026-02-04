@@ -20,6 +20,12 @@
     <a href="https://www.instagram.com/4khilnazim/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+   
+<br />
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
+</div>
   </p>
 </div>
 

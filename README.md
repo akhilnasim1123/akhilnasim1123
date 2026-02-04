@@ -45,6 +45,7 @@
 | <img src="https://skillicons.dev/icons?i=python,cpp,c,dart,js,php" /> | <img src="https://skillicons.dev/icons?i=django,flutter,react,vue,nodejs,express,flask" /> | <img src="https://skillicons.dev/icons?i=aws,docker,firebase,mysql,postgres,mongodb,git" /> |
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -61,12 +62,10 @@
     </tr>
   </table>
   <br/>
-  <!-- Using streaks.git-linked.com as an alternative to the herokuapp one which is often down -->
-  <img src="https://streaks.git-linked.com/?user=akhilnasim1123&theme=radical" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnasim1123&theme=radical" alt="Commit Streak" />
 </div>
 
 ---
-
 
 ### ✍️ Recent Blog Posts
 - <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b" target="_blank">Why I Chose to Be a Software Developer</a>

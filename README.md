@@ -116,6 +116,8 @@ that power modern web and mobile applications.
       <br><br>
       <b>GitHub Activity</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&theme=transparent&hide_border=true&layout=compact&card_width=320" alt="Top Langs" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnasim1123&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>

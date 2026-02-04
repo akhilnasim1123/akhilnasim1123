@@ -6,20 +6,25 @@
 <!-- Intro & Stats aligned -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
+    <td width="55%" valign="top">
+      <h2>🚀 Professional Profile</h2>
+      <br>
       <p>
-        I'm a <b>Full-Stack Developer</b> driven by a passion for building scalable, high-performance systems. My expertise spans across the entire development lifecycle, from sophisticated backend architectures to responsive, pixel-perfect frontends.
+        <b>Full-Stack Architect</b> & <b>Software Engineer</b> with a focus on designing high-performance, distributed systems.
       </p>
       <p>
-        🔭 <b>Currently:</b> Architecting scalable systems.<br>
-        🌱 <b>Learning:</b> Specialized Generative AI & Deep Learning.<br>
-        🤝 <b>Open for:</b> Collaboration on complex, innovative projects.<br>
-        ⚡ <b>Fun Fact:</b> I code faster than I drink coffee (and I drink <i>a lot</i> of coffee).
+        I specialize in bridging the gap between sophisticated <b>Backend Architectures</b> and fluid <b>Mobile Experiences</b>. My engineering philosophy centers on writing clean, maintainable code that drives enterprise-grade scalability.
+      </p>
+      <br>
+      <p>
+        🔭 <b>Focus:</b> Scalable System Architecture & API Design<br>
+        🌱 <b>R&D:</b> Advanced AI, LLMs, and Neural Networks<br>
+        🤝 <b>Connect:</b> Open for high-impact technical collaborations<br>
+        ⚡ <b>Ethos:</b> "Simplicity is the soul of efficiency."
       </p>
     </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=555" alt="Akhil's Stats" />
+    <td width="45%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Akhil's Stats" />
     </td>
   </tr>
 </table>

@@ -1,49 +1,22 @@
-<!-- Header with Banner Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Akhil%20Nasim&fontSize=70&fontColor=ffffff&desc=Full-Stack%20Architect%20%7C%20Problem%20Solver%20%7C%20Innovator&descSize=20&descAlign=50&animation=fadeIn" width="100%" /> 
-</div>
-
-<!-- Intro & Stats aligned -->
-<!-- ===================== PROFILE CARD ===================== -->
-
 <div align="center">
 
-<h2>🚀 Profile</h2>
+<h1>Akhil Nasim</h1>
 
 <p>
-<b>Full-Stack Architect</b> · <b>Software Engineer</b> · <b>Systems Thinker</b>
+<b>Full-Stack Architect</b> · <b>Software Engineer</b> · <b>Systems Designer</b>
 </p>
 
 <p>
-Designing <b>scalable distributed systems</b> and building <b>clean, resilient architectures</b> that power modern web and mobile applications.
+Engineering scalable systems, clean APIs, and resilient architectures  
+that power modern web and mobile applications.
 </p>
 
-<br/>
-
-<!-- METRICS -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&count_private=true&theme=transparent"
-  alt="GitHub Stats"
-/>
-
-<br/><br/>
-
-<!-- HIGHLIGHTS -->
-<table>
-  <tr>
-    <td align="center">🔭<br/><b>Architecture</b><br/>Scalable APIs & Systems</td>
-    <td align="center">🌱<br/><b>Research</b><br/>AI, LLMs & Neural Nets</td>
-    <td align="center">⚙️<br/><b>Engineering</b><br/>Clean & Maintainable Code</td>
-    <td align="center">🤝<br/><b>Collaboration</b><br/>High-Impact Projects</td>
-  </tr>
-</table>
-
-<br/>
-
-<i>“Simplicity is the soul of efficiency.”</i>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
+<hr/>
 <!-- ===================== END PROFILE CARD ===================== -->
 
 

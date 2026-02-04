@@ -1,100 +1,121 @@
-<h1>Hi 👋, I'm Akhil Nasim</h1>
-<p>Welcome to my GitHub profile! I'm a self-taught Full-Stack Developer with a passion for coding, problem-solving, and creating innovative software solutions. I specialize in web and mobile application development using a variety of modern technologies. On this profile, you’ll find projects that showcase my skills in building scalable and reliable systems.
+# Hi 👋, I'm Akhil Nasim
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or collaborate!</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=false&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Python+%26+Flutter+Expert;Building+Scalable+Systems)](https://git.io/typing-svg)
 
+Welcome to my GitHub profile! I'm a self-taught **Full-Stack Developer** with a passion for coding, problem-solving, and creating innovative software solutions. I specialize in web and mobile application development using a variety of modern technologies.
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-
-## ⚡️ Quickfire Q&A
-
-![Coffee](https://img.shields.io/badge/Coffee-☕️-brown?style=flat-square) **Coffee or Tea?** Straight Coffee  
-![Python](https://img.shields.io/badge/Python-%E2%9D%93-yellowgreen?style=flat-square) **Favorite Programming Language?** Python  
-![Night Owl](https://img.shields.io/badge/Night_Owl-%E2%98%99%EF%B8%8F-blue?style=flat-square) **Morning or Night Owl?** Night Owl  
-![Django](https://img.shields.io/badge/Django-%E2%9A%A1%EF%B8%8F-darkgreen?style=flat-square) **Favorite Framework?** Django  
-![AI](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%F0%9F%A4%96-blue?style=flat-square) **Favorite Tech to Learn Next?** AI & Machine Learning  
-![Windows](https://img.shields.io/badge/Windows-%F0%9F%90%A7-0078D4?style=flat-square) **Linux or Windows?** Windows  
-![Backend](https://img.shields.io/badge/Backend-%E2%9C%94-lightgray?style=flat-square) **Frontend or Backend?** Full-Stack (but leaning Backend)  
-![Books](https://img.shields.io/badge/Books-%F0%9F%93%9A-orange?style=flat-square) **Books or Podcasts?** Books  
-![Mac](https://img.shields.io/badge/Mac-%F0%9F%8D%91-000000?style=flat-square) **Mac or PC?** Mac  
-![VSCode](https://img.shields.io/badge/VS%20Code-%E2%9D%93-007ACC?style=flat-square) **Favorite Code Editor?** VS Code  
-![Laptop](https://img.shields.io/badge/Laptop-%F0%9F%92%BB-9B59B6?style=flat-square) **One Thing You Can’t Live Without?** My laptop  
+- 🔭 I’m currently working on building scalable systems
+- 🌱 I’m currently learning **AI & Machine Learning**
+- 👯 I’m looking to collaborate on interesting projects
+- ⚡ Fun fact: I prefer **Coffee** over Tea and I am a **Night Owl** 🦉
 
 ---
 
-### ⚙️ Tech & Tools
+## 🚀 Languages and Tools
 
-**🔧 Version Control Tool of Choice?** Git  
-**☁️ Cloud Platform Experience?** AWS, Firebase  
-**📦 Containerization?** Docker  
-**🗄️ Favorite Database?** MySQL  
-**🎨 UI/UX Design Tools?** Figma  
-**🌍 Favorite Developer Community?** Stack Overflow, GitHub  
-**📱 Mobile Development Platform?** Flutter  
-**📈 How do you stay updated with tech trends?** Reading blogs, attending webinars, and following tech leaders on Twitter.
-
----
-
-### 🚀 I’m always striving to learn new things, contribute to open-source projects, and grow as a developer. Thanks for visiting my profile!
-
-## 🚀 Skills & Technologies
-
-- **Languages:** C, C++, JavaScript, Python, PHP, Dart
-- **Web:** React, Vue.js, Django, Node.js, Express
-- **Mobile:** Flutter
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** AWS, Docker, Nginx
-- **Tools:** Git, Firebase, Postman, Figma, TensorFlow
-
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b?utm_source=share&utm_medium=member_desktop">Why I Chose to Be a Software Developer</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj?utm_source=share&utm_medium=member_desktop">Supercharge Your Python Applications with Celery</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/4khilnazim" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-nazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/4khilnazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&locale=en" alt="akhilnasim1123" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&locale=en&layout=compact" alt="akhilnasim1123" /></p> -->
-  <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
-  <h2>❤️ Support Me</h2>
-<p><p>
 
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## ⚡ Quickfire Q&A
+
+<div align="center">
+
+| | |
+| :--- | :--- |
+| **Coffee or Tea?** | ![Coffee](https://img.shields.io/badge/Coffee-☕️-top?style=flat-square&color=brown) |
+| **Favorite Language?** | ![Python](https://img.shields.io/badge/Python-🐍-top?style=flat-square&color=yellowgreen) |
+| **Style?** | ![Night Owl](https://img.shields.io/badge/Night_Owl-🦉-top?style=flat-square&color=blue) |
+| **Framework?** | ![Django](https://img.shields.io/badge/Django-⚡️-top?style=flat-square&color=darkgreen) |
+| **OS?** | ![Windows](https://img.shields.io/badge/Windows-🐧-top?style=flat-square&color=0078D4) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Akhil's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" alt="Akhil's Languages" height="150" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnasim1123&theme=tokyonight&hide_border=true&background=00000000" alt="Akhil's Streak" />
+</div>
+
+---
+
+## ✒️ Recent Posts
+<!-- You can automagically update this section using GitHub Actions! -->
+- <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b" target="_blank">Why I Chose to Be a Software Developer</a>
+- <a href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj" target="_blank">Supercharge Your Python Applications with Celery</a>
+
+---
+
+## ⚡ Where to find me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/4khilnazim)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-nazim/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/4khilnazim/)
+
+</div>
+
+<br />
+
+<div align="center">
 <a href="https://buymeacoffee.com/akhilnasimt">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
-</p>
-</p>
+</div>
+
+<br />
+
+<div align="center">
+<p><b>Profile Views</b></p>
+<img src="https://komarev.com/ghpvc/?username=akhilnasim1123&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>

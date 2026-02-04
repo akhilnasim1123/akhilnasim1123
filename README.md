@@ -45,6 +45,7 @@
 | <img src="https://skillicons.dev/icons?i=python,cpp,c,dart,js,php" /> | <img src="https://skillicons.dev/icons?i=django,flutter,react,vue,nodejs,express,flask" /> | <img src="https://skillicons.dev/icons?i=aws,docker,firebase,mysql,postgres,mongodb,git" /> |
 
 </div>
+---
 
 ### 📊 GitHub Stats
 
@@ -52,16 +53,19 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=radical&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=radical&count_private=true" alt="Akhil's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=akhilnasim1123&theme=radical" />
+  <!-- Using streaks.git-linked.com as an alternative to the herokuapp one which is often down -->
+  <img src="https://streaks.git-linked.com/?user=akhilnasim1123&theme=radical" alt="Commit Streak" />
 </div>
+
+---
 
 
 ### ✍️ Recent Blog Posts

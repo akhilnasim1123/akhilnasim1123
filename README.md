@@ -85,13 +85,14 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you�
 <p><a target="_blank" href="https://twitter.com/https://x.com/4khilnazim" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-nazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/4khilnazim/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&locale=en" alt="akhilnasim1123" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&locale=en&layout=compact" alt="akhilnasim1123" /></p>
-<h2>❤️ Support Me</h2>
-<p><p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&locale=en" alt="akhilnasim1123" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&locale=en&layout=compact" alt="akhilnasim1123" /></p> -->
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+  <h2>❤️ Support Me</h2>
+<p><p>
+
 <a href="https://buymeacoffee.com/akhilnasimt">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>

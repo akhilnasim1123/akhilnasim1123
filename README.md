@@ -1,150 +1,160 @@
-<!-- Header with Banner Effect -->
+<!-- 
+    OPTION 1: THE "VIBRANT ICON" DESIGN 
+    (Modern, colorful, centered)
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Akhil%20Nasim&fontSize=70&fontColor=ffffff&desc=Full-Stack%20Architect%20%7C%20Problem%20Solver%20%7C%20Innovator&descSize=20&descAlign=50&animation=fadeIn" width="100%" /> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Akhil%20Nasim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%26%20Flutter%20%E2%80%A2%20Open%20Source&descSize=20&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
-<!-- Intro & Stats aligned -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>
-        I'm a <b>Full-Stack Developer</b> driven by a passion for building scalable, high-performance systems. My expertise spans across the entire development lifecycle, from sophisticated backend architectures to responsive, pixel-perfect frontends.
-      </p>
-      <p>
-        🔭 <b>Currently:</b> Architecting scalable systems.<br>
-        🌱 <b>Learning:</b> Specialized Generative AI & Deep Learning.<br>
-        🤝 <b>Open for:</b> Collaboration on complex, innovative projects.<br>
-        ⚡ <b>Fun Fact:</b> I code faster than I drink coffee (and I drink <i>a lot</i> of coffee).
-      </p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=555" alt="Akhil's Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🚀 Code, Coffee, and Innovation</h3>
+  <br>
+  <a href="https://x.com/4khilnazim">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://linkedin.com/in/akhil-nazim">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/4khilnazim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 ---
 
-<!-- Tech Stack formatted as a System Dashboard -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
+### 👨‍💻 The Stack
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="15%" align="center"><b>Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><b>Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><b>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><b>Special</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br>
+  <!-- SkillIcons: A cohesive, colorful strip of icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,js,php,react,vue,flutter,django,flask,express&perline=12" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux,mysql,postgres,mongodb,firebase,sqlite&perline=10" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,postman,figma,tensorflow&perline=8" />
+  </a>
+</div>
+
+---
+
+### ⚡ Developer Profile
+
+<div align="center">
+  <!-- Use a clean table for the Q&A to make it look like a spec sheet -->
+  <table>
+    <tr>
+      <th colspan="2" align="center">🧬 DNA & Preferences</th>
+    </tr>
+    <tr>
+      <td>☕ <b>Fuel</b></td>
+      <td>Straight Coffee</td>
+    </tr>
+    <tr>
+      <td>🐍 <b>Language</b></td>
+      <td>Python (The favorite)</td>
+    </tr>
+    <tr>
+      <td>🦉 <b>Schedule</b></td>
+      <td>Night Owl</td>
+    </tr>
+    <tr>
+      <td>⚡ <b>Framework</b></td>
+      <td>Django</td>
+    </tr>
+    <tr>
+      <td>🤖 <b>Future Focus</b></td>
+      <td>AI & Machine Learning</td>
+    </tr>
+    <tr>
+      <td>🪟 <b>OS</b></td>
+      <td>Windows</td>
+    </tr>
+    <tr>
+      <td>⚙️ <b>Specialty</b></td>
+      <td>Full-Stack (Backend leaning)</td>
+    </tr>
+    <tr>
+      <td>🍎 <b>Hardware</b></td>
+      <td>Mac</td>
+    </tr>
+    <tr>
+      <td>📖 <b>Input</b></td>
+      <td>Books</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=ocean_blue&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&theme=ocean_blue&hide_border=true&layout=compact" height="150" alt="langs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnasim1123&theme=ocean_blue&hide_border=true" alt="streak" />
+</div>
+
+---
+
+### ✍️ Recent Posts
+- <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b" target="_blank">Why I Chose to Be a Software Developer</a>
+- <a href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj" target="_blank">Supercharge Your Python Applications with Celery</a>
 
 <br>
 
-<!-- Two Column Layout for Insights -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ Quickfire Insights</h3>
-      <i>What powers the developer?</i>
-      <br><br>
-      <img src="https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95-brown?style=flat-square" /> <img src="https://img.shields.io/badge/Zone-Night%20Owl%20%F0%9F%A6%89-4B0082?style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/Favorite-Python%20%F0%9F%90%8D-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-Django%20%E2%9A%A1-092E20?style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/OS-Windows%20%F0%9F%AA%9F-0078D4?style=flat-square" /> <img src="https://img.shields.io/badge/Editor-VS%20Code%20%F0%9F%92%BB-007ACC?style=flat-square" />
-      <br>
-      <img src="https://img.shields.io/badge/Target-AI%20%26%20ML%20%F0%9F%A4%96-FF6F00?style=flat-square" />
-    </td>
-    <td width="45%" valign="top">
-      <h3>✍️ Recent Musings</h3>
-      <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b">
-        <img src="https://img.shields.io/badge/LinkedIn-Why%20I%20Chose%20Software%20Dev-0A66C2?style=flat-square&logo=linkedin" width="100%"/>
-      </a>
-      <br>
-      <a href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj">
-        <img src="https://img.shields.io/badge/LinkedIn-Supercharge%20Python%20w%2F%20Celery-0A66C2?style=flat-square&logo=linkedin" width="100%"/>
-      </a>
-      <br><br>
-      <b>GitHub Activity</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilnasim1123&show_icons=true&theme=transparent&hide_border=true&layout=compact&card_width=320" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Footer with Connect Links -->
 <div align="center">
-  <h3>Where to find me</h3>
-  <p>
-    <a href="https://x.com/4khilnazim" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://www.linkedin.com/in/akhil-nazim/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/4khilnazim/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-  <p>
-    <a href="https://buymeacoffee.com/akhilnasimt">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="Buy Me A Coffee" />
-    </a>
-  </p>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <a href="https://buymeacoffee.com/akhilnasimt">
+    <img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&style=flat-square&color=blue&label=VIEWS" />
 </div>
+
+<!-- 
+    ========================================================================
+    OPTION 2: THE "TERMINAL" DESIGN 
+    (Separate by a huge gap or delete the above to use this one)
+    ========================================================================
+-->
+
+<!-- 
+<br><br><br><br>
+<hr>
+<h1>👇 OPTION 2: TERMINAL STYLE (Uncomment to use)</h1>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FFA00&background=000000&center=true&vCenter=true&width=600&lines=root%40akhil-pc%3A~%24+whoami;%3E+Full-Stack+Developer;root%40akhil-pc%3A~%24+cat+skills.txt;%3E+Python,+Flutter,+Django,+React" alt="Typing SVG" />
+</div>
+
+<h3>💻 System Status</h3>
+
+| 🔧 Core Module | 🛠️ Implementation |
+| :--- | :--- |
+| **User** | `Akhil Nasim` |
+| **Role** | `Full-Stack Architect` |
+| **Main Weapon** | `Python 🐍` |
+| **Secondary** | `Dart / Flutter 📱` |
+| **Uptime** | `Night Owl 🦉` |
+| **OS** | `Windows & Mac Dual-Wield` |
+
+<h3>📦 Dependencies Installed</h3>
+
+```json
+{
+  "languages": ["C", "C++", "Python", "JavaScript", "PHP", "Dart"],
+  "frameworks": ["Django", "Flask", "Express", "React", "Vue", "Flutter"],
+  "database": ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+  "tools": ["Docker", "AWS", "Git", "Figma", "TensorFlow"]
+}
+```
+
+(Rest of data would follow similarly...)
+-->

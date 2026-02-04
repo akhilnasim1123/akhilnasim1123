@@ -4,30 +4,48 @@
 </div>
 
 <!-- Intro & Stats aligned -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<!-- ===================== PROFILE CARD ===================== -->
+
+<div align="center">
+
+<h2>🚀 Profile</h2>
+
+<p>
+<b>Full-Stack Architect</b> · <b>Software Engineer</b> · <b>Systems Thinker</b>
+</p>
+
+<p>
+Designing <b>scalable distributed systems</b> and building <b>clean, resilient architectures</b> that power modern web and mobile applications.
+</p>
+
+<br/>
+
+<!-- METRICS -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&count_private=true&theme=transparent"
+  alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+<!-- HIGHLIGHTS -->
+<table>
   <tr>
-    <td width="55%" valign="top">
-      <h2>🚀 Professional Profile</h2>
-      <br>
-      <p>
-        <b>Full-Stack Architect</b> & <b>Software Engineer</b> with a focus on designing high-performance, distributed systems.
-      </p>
-      <p>
-        I specialize in bridging the gap between sophisticated <b>Backend Architectures</b> and fluid <b>Mobile Experiences</b>. My engineering philosophy centers on writing clean, maintainable code that drives enterprise-grade scalability.
-      </p>
-      <br>
-      <p>
-        🔭 <b>Focus:</b> Scalable System Architecture & API Design<br>
-        🌱 <b>R&D:</b> Advanced AI, LLMs, and Neural Networks<br>
-        🤝 <b>Connect:</b> Open for high-impact technical collaborations<br>
-        ⚡ <b>Ethos:</b> "Simplicity is the soul of efficiency."
-      </p>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilnasim1123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Akhil's Stats" />
-    </td>
+    <td align="center">🔭<br/><b>Architecture</b><br/>Scalable APIs & Systems</td>
+    <td align="center">🌱<br/><b>Research</b><br/>AI, LLMs & Neural Nets</td>
+    <td align="center">⚙️<br/><b>Engineering</b><br/>Clean & Maintainable Code</td>
+    <td align="center">🤝<br/><b>Collaboration</b><br/>High-Impact Projects</td>
   </tr>
 </table>
+
+<br/>
+
+<i>“Simplicity is the soul of efficiency.”</i>
+
+</div>
+
+<!-- ===================== END PROFILE CARD ===================== -->
+
 
 ---
 

@@ -69,6 +69,8 @@
   </table>
   <br/>
   <img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical" alt="Commit Streak" />
+  <br/>
+  <img src="https://ghchart.rshah.org/8a2be2/akhilnasim1123" alt="Akhil's Github Chart" />
 </div>
 
 ---

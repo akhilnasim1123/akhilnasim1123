@@ -70,7 +70,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical" alt="Commit Streak" />
   <br/>
-  <img src="https://ghchart.rshah.org/8a2be2/akhilnasim1123" alt="Akhil's Github Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnasim1123&theme=radical" alt="Akhil's Activity Graph" />
 </div>
 
 ---

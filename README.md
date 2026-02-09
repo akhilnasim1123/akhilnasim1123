@@ -75,7 +75,9 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnasim1123&bg_color=000000&color=ffffff&line=8a2be2&point=ffffff&hide_border=true" alt="Akhil's Activity Graph" />
+  <br/>
 </div>
+
 ---
 ### ✍️ Recent Blog Posts
 - <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b" target="_blank">Why I Chose to Be a Software Developer</a>

@@ -74,7 +74,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnasim1123&bg_color=000000&color=ffffff&line=8a2be2&point=ffffff&hide_border=true" alt="Akhil's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnasim1123&bg_color=0d1117&color=ffffff&line=8a2be2&point=ffffff&hide_border=true" alt="Akhil's Activity Graph" />
   <br/>
 </div>
 

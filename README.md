@@ -57,18 +57,27 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&icon_color=c9d1d9&theme=radical&count_private=true&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9" alt="Akhil's Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9&icon_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-<img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical&background=0d1117&ring=54cf62&fire=54cf62&currStreakLabel=54cf62&sideLabels=54cf62&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Commit Streak" />
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:54cf62&height=200&section=header&text=Akhil%20Nasim&fontColor=54cf62&fontAlignY=35&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=54CF62&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
+---
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9&icon_color=54cf62&hide_border=true" />
+  
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilnasim1123&background=0d1117&ring=54cf62&fire=54cf62&currStreakLabel=54cf62&sideLabels=54cf62&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&hide_border=true" />
+</div>
 </div>
 
 ---

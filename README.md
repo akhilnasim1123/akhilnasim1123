@@ -1,12 +1,4 @@
 <div align="center">
- 
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" />
- 
-  <h1 style="border-bottom: none;">Akhil Nasim</h1>
-  
-  <p>
-    <b>Architecting Scalable Solutions & Crafting Digital Experiences</b>
-  </p>
 
   <p>
     <a href="https://x.com/4khilnazim">

@@ -68,17 +68,7 @@
     </tr>
   </table>
   <br/>
-<img src="https://streak-stats.demolab.com?user=akhilnasim1123
-&theme=radical
-&background=0d1117
-&ring=54cf62
-&fire=54cf62
-&currStreakLabel=54cf62
-&sideLabels=54cf62
-&currStreakNum=c9d1d9
-&sideNums=c9d1d9
-&dates=c9d1d9"
-alt="Commit Streak" />
+<img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical&background=0d1117&ring=54cf62&fire=54cf62&currStreakLabel=54cf62&sideLabels=54cf62&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Commit Streak" />
 </div>
 
 ---

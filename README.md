@@ -9,6 +9,10 @@
   </p>
 
   <p>
+    <a href="https://akhilnasim.com">
+      <img src="https://img.shields.io/badge/Website-54cf62?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    &nbsp;
     <a href="https://x.com/4khilnazim">
       <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>

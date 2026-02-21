@@ -60,15 +60,15 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&icon_color=c9d1d9&theme=radical&count_private=true&bg_color=0d1117&title_color=54cf62&color=c9d1d9" alt="Akhil's Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&icon_color=c9d1d9&theme=radical&count_private=true&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9" alt="Akhil's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical&bg_color=0d1117&title_color=54cf62&color=c9d1d9&icon_color=c9d1d9" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&theme=radical&bg_color=0d1117&title_color=54cf62&text_color=c9d1d9&icon_color=c9d1d9" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical&background=0d1117&ring=54cf62&fire=54cf62&currStreakLabel=54cf62&color=c9d1d9&icon_color=c9d1d9" alt="Commit Streak" />
+  <img src="https://streak-stats.demolab.com?user=akhilnasim1123&theme=radical&background=0d1117&ring=54cf62&fire=54cf62&currStreakLabel=54cf62&text_color=c9d1d9&icon_color=c9d1d9" alt="Commit Streak" />
 </div>
 
 ---

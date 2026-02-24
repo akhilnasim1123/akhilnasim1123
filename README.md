@@ -1,36 +1,45 @@
 <div align="center">
- 
- 
-  <h1 style="border-bottom: none;">Akhil Nasim</h1>
+
+  <h1>Hi, I'm Akhil Nasim 👋</h1>
   
   <p>
-    <b>Architecting Scalable Solutions & Crafting Digital Experiences</b>
+    <i>Architecting Scalable Solutions • Building Smart Systems • Crafting Digital Experiences</i>
   </p>
 
-  <p>
-    <a href="https://akhilnasim.com">
-      <img src="https://img.shields.io/badge/Website-54cf62?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-    &nbsp;
-    <a href="https://x.com/4khilnazim">
-      <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" alt="X" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/akhil-nazim/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/4khilnazim/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-   
-<br />
+  <br/>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+
+  <br/><br/>
+
+  <a href="https://akhilnasim.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-akhilnasim.com-1f2937?style=for-the-badge" />
+  </a>
+  
+  <a href="https://x.com/4khilnazim">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/akhil-nazim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/4khilnazim/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </div>
-  </p>
-</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+Name: Akhil Nasim
+Role: Full Stack Developer
+Focus: Scalable Systems, Automation, Monitoring Tools
+Tech Stack: Python, Linux, Docker, Nginx, MySQL
+Current Mission: Building powerful internal tools & production systems```
 
 <br />
 

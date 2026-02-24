@@ -32,15 +32,13 @@
 
 ---
 
-### 🚀 About Me
-
 ```yaml
 Name: Akhil Nasim
 Role: Full Stack Developer
 Focus: Scalable Systems, Automation, Monitoring Tools
 Tech Stack: Python, Linux, Docker, Nginx, MySQL
-Current Mission: Building powerful internal tools & production systems```
-
+Current Mission: Building powerful internal tools & production systems
+```
 <br />
 
 ---

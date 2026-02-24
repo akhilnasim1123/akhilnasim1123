@@ -10,7 +10,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://akhilnasim.com">
     <img src="https://img.shields.io/badge/🌐%20Website-akhilnasim.com-1f2937?style=for-the-badge" />

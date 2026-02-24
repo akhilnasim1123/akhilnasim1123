@@ -41,15 +41,28 @@ Current Mission: Building powerful internal tools & production systems
 ```
 ---
 
-### 👨‍💻 About Me
+```yaml
+about_me:
+  name: Akhil Nasim
+  role: Full Stack Developer
 
-- 🔭 I’m currently working on **High-Performance Web & Mobile Apps**.
-- 🌱 I’m currently learning **Generative AI & LLMs**.
-- 💬 Ask me about **Django, Flutter, and System Design**.
-- ⚡ Fun fact: **I code faster than I drink coffee (and I drink a lot of coffee).**
+  current_work:
+    - High-Performance Web Applications
+    - Scalable Mobile Applications
 
----
+  learning_now:
+    - Generative AI
+    - Large Language Models (LLMs)
 
+  expertise:
+    - Django
+    - Flutter
+    - System Design
+
+  fun_fact: >
+    I code faster than I drink coffee
+    (and I drink a lot of coffee ☕)
+```
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">

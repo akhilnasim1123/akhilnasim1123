@@ -32,6 +32,10 @@
     <img src="https://img.shields.io/badge/📦%20Pub.dev-Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
 
+  <a href="https://medium.com/@akhilnasim029">
+    <img src="https://img.shields.io/badge/✍️%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
 </div>
 ---
 

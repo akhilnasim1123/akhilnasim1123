@@ -28,8 +28,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-</div>
+  <a href="https://pub.dev/publishers/akhilnasim.com">
+    <img src="https://img.shields.io/badge/📦%20Pub.dev-Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
 
+</div>
 ---
 
 ```yaml

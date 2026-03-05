@@ -72,7 +72,7 @@ about_me:
 ```
 ## 🛠️ Tech Stack & Arsenal
 
-<div align="center">
+<div align="">
 
 | Category | Technologies |
 |-----------|-------------|
@@ -88,7 +88,7 @@ about_me:
 
 ### 📊 GitHub Stats
 
-<div align="">
+<div align="center">
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">

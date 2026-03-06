@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 # Hi, I'm Akhil Nasim 👋
 <i>Architecting Scalable Solutions • Building Smart Systems • Crafting Digital Experiences</i>
@@ -52,7 +52,7 @@
 
 </p>
 
-</div>
+</div>**
 
 
 ```yaml

@@ -1,58 +1,29 @@
-**<div align="center">
+<div align="center">
 
 # Hi, I'm Akhil Nasim 👋
-<i>Architecting Scalable Solutions • Building Smart Systems • Crafting Digital Experiences</i>
+
+<a href="https://akhilnasim.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Solutions;Building+Smart+Systems;Crafting+Digital+Experiences" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
-<p align="center">
-
-<b>🌐 Website</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>🤝 Social</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>👨‍💻 Developer</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>✍️ Writing</b>
-
-</p>
+### 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://akhilnasim.com">
-<img src="https://img.shields.io/badge/Website-akhilnasim.com-111827?style=for-the-badge"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/4khilnazim">
-<img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akhil-nazim/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/4khilnazim/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://pub.dev/publishers/akhilnasim.com">
-<img src="https://img.shields.io/badge/Pub.dev-Dart%20Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://medium.com/@akhilnasim029">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
+  <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://pub.dev/publishers/akhilnasim.com"><img src="https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev"/></a>
+  <a href="https://medium.com/@akhilnasim029"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-</div>**
+</div>
 
 
 ```yaml

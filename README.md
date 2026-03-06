@@ -7,13 +7,51 @@
 
 <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
----
+<p align="center">
 
-| 🌐 Website | 🤝 Social | 👨‍💻 Developer | ✍️ Writing |
-|------------|-----------|---------------|------------|
-| <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-akhilnasim.com-111827?style=for-the-badge"/></a> | <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><br><a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br><a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> | <a href="https://pub.dev/publishers/akhilnasim.com"><img src="https://img.shields.io/badge/Pub.dev-Dart%20Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a> | <a href="https://medium.com/@akhilnasim029"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a> |
+<b>🌐 Website</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>🤝 Social</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>👨‍💻 Developer</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>✍️ Writing</b>
+
+</p>
+
+<p align="center">
+
+<a href="https://akhilnasim.com">
+<img src="https://img.shields.io/badge/Website-akhilnasim.com-111827?style=for-the-badge"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://x.com/4khilnazim">
+<img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akhil-nazim/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/4khilnazim/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://pub.dev/publishers/akhilnasim.com">
+<img src="https://img.shields.io/badge/Pub.dev-Dart%20Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://medium.com/@akhilnasim029">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
 

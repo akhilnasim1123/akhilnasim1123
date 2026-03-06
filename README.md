@@ -10,8 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
-<br/><br/>
-
 ### 🌐 Connect With Me
 
 <p align="center">

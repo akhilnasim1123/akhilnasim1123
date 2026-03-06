@@ -11,42 +11,9 @@
 
 ---
 
-### 🌐 Website
-<p>
-<a href="https://akhilnasim.com">
-<img src="https://img.shields.io/badge/🌐%20akhilnasim.com-Personal%20Website-111827?style=for-the-badge"/>
-</a>
-</p>
-
-### 🤝 Social
-<p>
-<a href="https://x.com/4khilnazim">
-<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akhil-nazim/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/4khilnazim/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
-### 👨‍💻 Developer Platforms
-<p>
-<a href="https://pub.dev/publishers/akhilnasim.com">
-<img src="https://img.shields.io/badge/Pub.dev-Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</a>
-</p>
-
-### ✍️ Writing
-<p>
-<a href="https://medium.com/@akhilnasim029">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-</p>
-
+| 🌐 Website | 🤝 Social | 👨‍💻 Developer | ✍️ Writing |
+|------------|-----------|---------------|------------|
+| <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-akhilnasim.com-111827?style=for-the-badge"/></a> | <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><br><a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br><a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> | <a href="https://pub.dev/publishers/akhilnasim.com"><img src="https://img.shields.io/badge/Pub.dev-Dart%20Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a> | <a href="https://medium.com/@akhilnasim029"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a> |
 </div>
 
 

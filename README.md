@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Solutions;Building+Smart+Systems;Crafting+Digital+Experiences" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/> 
 
 <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 

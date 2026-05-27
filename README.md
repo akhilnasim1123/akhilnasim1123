@@ -8,6 +8,7 @@
       🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
       🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
       ⚡ &nbsp; <b>Fun Fact:</b> I code faster than I drink coffee (and I drink a lot of coffee ☕)
+      <br/>
     </td>
     <td width="40%" align="center" valign="top" style="border: none;">
       <br/>
@@ -20,7 +21,6 @@
       <a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
       <a href="https://pub.dev/publishers/akhilnasim.com"><img src="https://img.shields.io/badge/Pub.dev-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev"/></a> &nbsp;
       <a href="https://medium.com/@akhilnasim029"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-      <br/>
     </td>
   </tr>
 </table>

@@ -3,9 +3,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="60%" align="left" valign="top" style="border: none;">
-      🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/><br/>
-      🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/><br/>
-      🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/><br/>
+      🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/>
+      🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
+      🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
       ⚡ &nbsp; <b>Fun Fact:</b> I code faster than I drink coffee (and I drink a lot of coffee ☕)
     </td>
     <td width="40%" align="center" valign="top" style="border: none;">

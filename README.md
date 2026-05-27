@@ -1,6 +1,6 @@
 <table width="100%" style="border: none;">
   <tr>
-    <td width="70%" align="left" valign="top" style="border: none;">
+    <td width="60%" align="left" valign="top" style="border: none;">
       <h2>Hi, I'm Akhil Nasim 👋</h2>
       <a href="https://akhilnasim.com">
       </a>
@@ -10,7 +10,7 @@
       🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
       ⚡ &nbsp; <b>Fun Fact:</b> I code faster than I drink coffee (and I drink a lot of coffee ☕)
     </td>
-    <td width="30%" align="center" valign="top" style="border: none;">
+    <td width="40%" align="center" valign="top" style="border: none;">
       <br/>
       <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
       <br/>

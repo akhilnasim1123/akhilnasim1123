@@ -2,12 +2,11 @@
   <tr>
     <td width="60%" align="left" valign="top" style="border: none;">
       <h2>Hi, I'm Akhil Nasim 👋</h2>
-      <a href="https://akhilnasim.com">
-      </a>
       🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/>
       🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
       🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
       ⚡ &nbsp; <b>Fun Fact:</b> I code faster than I drink coffee (and I drink a lot of coffee ☕)
+      <br/>
       <br/>
     </td>
     <td width="40%" align="center" valign="top" style="border: none;">

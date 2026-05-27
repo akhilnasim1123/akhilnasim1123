@@ -1,6 +1,6 @@
-<table width="100%" style="border: none !important;">
+<table width="100%" frame="void" rules="none">
   <tr>
-    <td width="60%" align="left" valign="top" style="border: none;">
+    <td width="60%" align="left" valign="top">
       <h2>Hi, I'm Akhil Nasim 👋</h2>
       🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/>
       🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
@@ -9,11 +9,8 @@
       <br/>
       <br/>
     </td>
-    <td width="40%" align="center" valign="top" style="border: none;">
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
-      <br/>
-      <br/>
+    <td width="40%" align="center" valign="top">
+      <h2><img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/></h2>
       <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> &nbsp;
       <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> &nbsp;
       <a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;

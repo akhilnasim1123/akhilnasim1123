@@ -1,4 +1,4 @@
-<table width="100%" style="border: none;">
+<table width="100%" style="border: none !important;">
   <tr>
     <td width="60%" align="left" valign="top" style="border: none;">
       <h2>Hi, I'm Akhil Nasim 👋</h2>

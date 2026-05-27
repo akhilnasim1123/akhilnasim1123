@@ -1,23 +1,18 @@
-<table width="100%" style="border: none;">
-  <tr>
+## Hi, I'm Akhil Nasim 👋 <img align="right" src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
     <td width="60%" align="left" valign="top" style="border: none;">
-      <h2>Hi, I'm Akhil Nasim 👋</h2>
-      <a href="https://akhilnasim.com">
-      </a>
-      🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/>
-      🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
-      🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
+      🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/><br/>
+      🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/><br/>
+      🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/><br/>
       ⚡ &nbsp; <b>Fun Fact:</b> I code faster than I drink coffee (and I drink a lot of coffee ☕)
     </td>
     <td width="40%" align="center" valign="top" style="border: none;">
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
-      <br/>
-      <br/>
       <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> &nbsp;
       <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> &nbsp;
-      <a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-      <a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      <a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <br/>
+      <a href="https://www.instagram.com/4khilnazim/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
       <a href="https://pub.dev/publishers/akhilnasim.com"><img src="https://img.shields.io/badge/Pub.dev-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev"/></a> &nbsp;
       <a href="https://medium.com/@akhilnasim029"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
     </td>
@@ -99,10 +94,10 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&count_private=true" alt="Akhil's Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&count_private=true" alt="Akhil's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Top Languages" />
       </td>
     </tr>
   </table>

@@ -4,7 +4,6 @@
       <h2>Hi, I'm Akhil Nasim 👋</h2>
       <a href="https://akhilnasim.com">
       </a>
-      <h3>👨‍💻 About Me</h3>
       🚀 &nbsp; <b>Role:</b> Full Stack Developer specializing in Scalable Systems, Automation & Monitoring Tools <br/>
       🎯 &nbsp; <b>Current Mission:</b> Building powerful internal tools & production systems <br/>
       🧠 &nbsp; <b>Learning:</b> Generative AI, Large Language Models (LLMs) <br/>
@@ -14,7 +13,7 @@
       <br/>
       <img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
       <br/>
-      <h3>🌐 Connect</h3>
+      <br/>
       <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> &nbsp;
       <a href="https://x.com/4khilnazim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> &nbsp;
       <a href="https://www.linkedin.com/in/akhil-nazim/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;

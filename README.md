@@ -96,10 +96,10 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&count_private=true" alt="Akhil's Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&count_private=true" alt="Akhil's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Top Languages" />
       </td>
     </tr>
   </table>

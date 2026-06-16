@@ -111,13 +111,6 @@
 
 ---
 
-### ✍️ Recent Blog Posts
-
-- 🖤 <a href="https://www.linkedin.com/posts/akhil-nazim_softwaredevelopment-techcareer-coding-activity-7271086040881197057-B_-b" target="_blank">Why I Chose to Be a Software Developer</a>
-- 🖤 <a href="https://www.linkedin.com/posts/akhil-nazim_python-celery-asynchronousprocessing-activity-7270705523425968128-ANYj" target="_blank">Supercharge Your Python Applications with Celery</a>
-
----
-
 <div align="center">
   <br/>
   <a href="https://buymeacoffee.com/akhilnasimt">

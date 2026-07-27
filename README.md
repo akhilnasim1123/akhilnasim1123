@@ -2,11 +2,9 @@
   <tr>
     <td width="60%" align="left" valign="top">
       <h2>Hi, I'm Akhil Nasim 👋</h2>
-      <b>Role:</b> Full Stack Engineer specializing in Scalable Web Applications & Cloud Infrastructure <br/>
-      <b>Focus:</b> Architecting high-performance web systems, APIs, & production tools <br/>
-      <b>Exploring:</b> Generative AI, Large Language Models (LLMs), & AI Agents <br/>
-      <b>Fun Fact:</b> Fueled by coffee ☕ and driven by clean, scalable architecture
-      <br/>
+      <p style="line-height: 1.6;">
+        I’m a Full Stack Engineer passionate about turning complex ideas into high-performance, resilient digital systems. From crafting pixel-perfect web interfaces with <b>React & Next.js</b> to architecting robust backends with <b>Django & Python</b>, I bridge the gap between elegant UI design and scalable cloud infrastructure. Currently exploring the frontiers of <b>Generative AI & LLMs</b> while building mission-critical production tools. Fueled by clean code, continuous curiosity, and plenty of coffee. ☕
+      </p>
       <br/>
     </td>
     <td width="40%" align="center" valign="top">

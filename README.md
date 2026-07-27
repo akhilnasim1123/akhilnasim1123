@@ -2,10 +2,10 @@
   <tr>
     <td width="60%" align="left" valign="top">
       <h2>Hi, I'm Akhil Nasim 👋</h2>
-      🚀 &nbsp; <b>Role:</b> Full Stack Engineer specializing in Scalable Web Applications & Cloud Infrastructure <br/>
-      🎯 &nbsp; <b>Focus:</b> Architecting high-performance web systems, APIs, & production tools <br/>
-      🧠 &nbsp; <b>Exploring:</b> Generative AI, Large Language Models (LLMs), & AI Agents <br/>
-      ⚡ &nbsp; <b>Fun Fact:</b> Fueled by coffee ☕ and driven by clean, scalable architecture
+      <b>Role:</b> Full Stack Engineer specializing in Scalable Web Applications & Cloud Infrastructure <br/>
+      <b>Focus:</b> Architecting high-performance web systems, APIs, & production tools <br/>
+      <b>Exploring:</b> Generative AI, Large Language Models (LLMs), & AI Agents <br/>
+      <b>Fun Fact:</b> Fueled by coffee ☕ and driven by clean, scalable architecture
       <br/>
       <br/>
     </td>

@@ -1,9 +1,9 @@
 <table width="100%" frame="void" rules="none">
   <tr>
     <td width="60%" align="left" valign="top">
-      <h2>Hi, I'm Akhil Nasim 👋</h2>
+      <h2>Hi, I'm Akhil Nasim</h2>
       <p style="line-height: 1.6;">
-        I’m a Full Stack Engineer passionate about turning complex ideas into high-performance, resilient digital systems. From crafting pixel-perfect web interfaces with <b>React & Next.js</b> to architecting robust backends with <b>Django & Python</b>, I bridge the gap between elegant UI design and scalable cloud infrastructure. Currently exploring the frontiers of <b>Generative AI & LLMs</b> while building mission-critical production tools. Fueled by clean code, continuous curiosity, and plenty of coffee. ☕
+        Full Stack Engineer specializing in architecting high-performance web systems, cloud infrastructure, and intelligent software. I build resilient end-to-end applications using <b>Next.js, React, Python, and Django</b>, with a current focus on <b>Generative AI and LLM integration</b>.
       </p>
       <br/>
     </td>

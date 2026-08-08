@@ -1,4 +1,4 @@
-<table width="100%" frame="void" rules="none">
+<table width="100%" frame="void" rules="none"> 
   <tr>
     <td width="60%" align="left" valign="top">
       <h2>Hi, I'm Akhil Nasim</h2>

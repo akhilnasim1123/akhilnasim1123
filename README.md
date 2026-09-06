@@ -6,7 +6,7 @@
         Full Stack Engineer specializing in architecting high-performance web systems, cloud infrastructure, and intelligent software. I build resilient end-to-end applications using <b>Next.js, React, Python, and Django</b>, with a current focus on <b>Generative AI and LLM integration</b>.
       </p>
       <br/>
-    </td>
+    </td> 
     <td width="40%" align="center" valign="top">
       <h2><img src="https://komarev.com/ghpvc/?username=akhilnasim1123&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/></h2>
       <a href="https://akhilnasim.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> &nbsp;

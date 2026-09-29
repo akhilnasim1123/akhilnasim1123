@@ -3,7 +3,7 @@
     <td width="60%" align="left" valign="top">
       <h2>Hi, I'm Akhil Nasim</h2>
       <p style="line-height: 1.6;">
-        Full Stack Engineer specializing in architecting high-performance web systems, cloud infrastructure, and intelligent software. I build resilient end-to-end applications using <b>Next.js, React, Python, and Django</b>, with a current focus on <b>Generative AI and LLM integration</b>.
+        Full Stack Engineer specializing in architecting high-performance web systems, cloud infrastructure, and intelligent software. I build resilient end-to-end applications using <b>Next.js, React, Python, Django, and Node.js</b>, with a current focus on <b>Generative AI and LLM integration</b>.
       </p>
       <br/>
     </td> 
@@ -24,6 +24,7 @@
 ### 🛠️ Tech Arsenal
 
 #### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -34,6 +35,7 @@
 </p>
 
 #### 🎨 Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -49,7 +51,9 @@
 </p>
 
 #### ⚙️ Backend Development
+
 <p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-000000?style=for-the-badge&logo=django&logoColor=A30000" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -59,11 +63,13 @@
 </p>
 
 #### 📱 Mobile Development
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
 </p>
 
 #### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
@@ -72,7 +78,9 @@
 </p>
 
 #### ☁️ Cloud & DevOps
+
 <p>
+  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
@@ -81,12 +89,15 @@
 </p>
 
 #### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
   <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
   <img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
+  <img src="https://img.shields.io/badge/Google_Play_Store-000000?style=for-the-badge&logo=googleplay&logoColor=414141" alt="Google Play Store" />
+  <img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt="Apple App Store" />
 </p>
 
 ---

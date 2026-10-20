@@ -42,13 +42,13 @@ I architect high-performance web systems, cloud infrastructure and intelligent s
 
 ## GitHub Stats
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
 </p>
-
 ---
-
+ 
 <p align="center">
   <a href="https://buymeacoffee.com/akhilnasimt"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-111827?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a>
 </p>

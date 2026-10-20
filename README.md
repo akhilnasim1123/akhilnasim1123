@@ -43,8 +43,8 @@ I architect high-performance web systems, cloud infrastructure and intelligent s
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhilnasim1123&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilnasim1123&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
 </p>
 
 ---

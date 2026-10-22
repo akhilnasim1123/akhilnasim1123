@@ -1,4 +1,4 @@
-<h1 align="center">Akhil Nasim</h1>
+<h1 align="center">AKHIL NASIM</h1>
 
 <p align="center">
   <b>Full Stack Engineer</b> · Web Systems · Cloud · Generative AI
